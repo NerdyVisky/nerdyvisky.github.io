@@ -11,10 +11,11 @@ profile:
   more_info: >
     <p>550 1st Ave.</p>
     <p>New York, NY 10016</p>
+    <p>vt2369{at}nyu{dot}edu</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+news: true # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 ---
 
 I am a Master’s student at the [Courant Institute of Mathematical Sciences, New York University](https://cims.nyu.edu/dynamic/) and a  Student Research Volunteer at the Biomedical Data Sciences Hub (Bio-DaSH) in the [Clinical & Translational Science Institute](https://ctsi.med.nyu.edu). Under the guidance of [Prof. Gustavo Stolovitzky](https://med.nyu.edu/faculty/gustavo-a-stolovitzky) I focus on performance monitoring of AI Decision Support Tools (AI-DSTs) deployed at NYU Langone Health and NYC Health + Hospitals. 
