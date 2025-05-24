@@ -18,14 +18,14 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "A growing collection of my research and software contributions!",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -36,14 +36,14 @@ ninja.data = [{
           section: "News",},{id: "news-began-working-at-the-bio-dash-lab-in-the-ctsi-instiute-nyu-langone-under-prof-gustavo-stolovitzky",
           title: 'Began working at the Bio-DaSH lab in the CTSI Instiute, NYU Langone under...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-attention-aware-dpo-for-reducing-hallucinations-in-multi-image-qa",
+          title: 'Attention-Aware DPO for Reducing Hallucinations in Multi-Image QA',
+          description: "We introduce an attention-aware, multi-image augmented preference alignment method that improves accuracy by 8.5%, and further enhance inference-time alignment through adaptive attention scaling, yielding a 10% performance gain over the base model.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-do-retrieval-heads-speak-the-same-language",
+          title: 'Do retrieval heads speak the same language?',
+          description: "This project analyzes retrieval heads in multilingual LLMs using Needle-in-a-Haystack tasks across English, German, and Chinese. We find that strong retrieval heads are largely language-agnostic and critical for performance. Masking them leads to significant accuracy drops, offering insights for optimizing KV caching and multilingual model efficiency.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
@@ -76,45 +76,33 @@ ninja.data = [{
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%76%74%32%33%36%39@%6E%79%75.%65%64%75", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://github.com/NerdyVisky", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-kaggle',
+        title: 'Kaggle',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://www.kaggle.com/vishvesh106", "_blank");
         },
       },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://www.linkedin.com/in/vishvesh-trivedi-783116214/", "_blank");
         },
       },{
       id: 'light-theme',
