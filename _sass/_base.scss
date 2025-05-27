@@ -206,14 +206,18 @@ ul.task-list input[type="checkbox"] {
     }
   }
 }
+#p2tab1{
+  width: max(35vw, 300px);
+  margin: auto;
+}
 
 .profile.float-right {
-  margin-top: -6rem;
+  // margin-top: -6rem;
   margin-left: 1rem;
 }
 
 .profile.float-left {
-  margin-top: -6rem;
+  // margin-top: -6rem;
   margin-right: 1rem;
 }
 

@@ -89,7 +89,20 @@
           "courses": []
       }
   ],
-  "awards": [],
+  "awards": [
+    {
+        "title": "1st Runners Up at the annual Threesis Academic Challenge in NYU GSAS",
+        "date": "2025-04-26",
+        "awarder": "NYU Graduate School of Arts and Sciences",
+        "summary": "Presented my ongoing research regarding post-deployment evaluation of AI tools in a short three minute talk titled The curious case of the aging AI doctor in front of a non-technical audience. My aim was to throw light on the perils of relying of short-term accuracy of AI tools deployed in hospitals and involved in critical clinical decision making and how our team at NYU Langone Health is trying to solve this issue by benchmarking models and developing real-time monitoring tools. My talk made it to the final round among 70 graduate presentations from NYU GSAS and I received the first runners up prize in the final round with a net prize of $1300."
+    },
+    {
+        "title": "Winner at All India Inter NIT Swimming Championships",
+        "date": "2023-02-14",
+        "awarder": "NIT Rourkela",
+        "summary": "Represented my university in the all-India Inter-NIT Swimming games of 2023. Our team secured the runners-up position among 14 NITs"
+    }
+  ],
   "certificates": [
       {
           "name": "ML-Ops Best Practices, Data Governance, Agile and Scrum",
@@ -100,7 +113,7 @@
       {
         "name": "EPIC COSMOS EHR SuperUser",
         "date": "2025-03-18",
-        "issuer": "EPIC Systems",
+        "issuer": "EPIC University",
         "url": ""
       }
   ],

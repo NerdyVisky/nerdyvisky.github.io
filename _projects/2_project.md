@@ -10,7 +10,7 @@ giscus_comments: true
 <div class="text-center mb-3" style="font-size: 1.5rem; font-weight: bold;">
   <a href="/assets/pdf/ETNLP_Project.pdf" target="_blank" style="color: #007bff;">[Report]</a>
   <a href="https://github.com/shaswatpatel123/Retrieval_Head" target="_blank" style="color: #007bff; margin-left: 5px;">[Code]</a>
-  <a href="/assets/pdf/ETNLP_Poster.pdf" target="_blank" style="color: #007bff; margin-left: 5px;">[Poster]</a>
+  <a href="/assets/pdf/ETNLP_FINAL_POSTER.pdf" target="_blank" style="color: #007bff; margin-left: 5px;">[Poster]</a>
 </div>
 
 <h2>Project Summary</h2>
@@ -97,7 +97,7 @@ Strong heads (retrieval score ≥ 0.5) tend to be shared across languages. Weake
 <div class="caption">The difference in ranks of retrieval heads is more pronounced for weaker, language-specific attention heads. Top: Qwen 2.5-3B-Instruct, Bottom: Phi 3.5-3B-MiniInstruct</div>
 
 
-<div class="row">
+<div class="row" id="p2tab1">
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/2_etnlp_project/tab1.png" title="Table 1: Language Distance vs Correlation" class="img-fluid rounded" %}
   </div>
