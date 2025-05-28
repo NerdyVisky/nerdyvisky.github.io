@@ -1,6 +1,13 @@
 <div class="col">
   <a href="{% if project.redirect %}{{ project.redirect }}{% else %}{{ project.url | relative_url }}{% endif %}">
-    <div class="card h-100 hoverable">
+    <div class="card h-100 hoverable position-relative">
+      
+      {% if project.in_preparation %}
+        <div class="badge bg-warning text-dark position-absolute" style="top: 0.5rem; right: 0.5rem; z-index: 1;">
+          In preparation
+        </div>
+      {% endif %}
+
       {% if project.img %}
         {%
           include figure.liquid
@@ -11,6 +18,7 @@
           class="card-img-top"
         %}
       {% endif %}
+
       <div class="card-body">
         <h2 class="card-title">{{ project.title }}</h2>
         <p class="card-text">{{ project.description }}</p>
@@ -28,6 +36,15 @@
               {% endif %}
             </div>
           {% endif %}
+        </div>
+      </div>
+
+      <div class="card-footer d-flex justify-content-between align-items-center flex-wrap px-3 py-2">
+        <small class="text-muted">{{ project.date | date: "%b %Y"}}</small>
+        <div>
+          {% for tag in project.tags limit:3 %}
+            <span class="badge bg-secondary me-1">{{ tag }}</span>
+          {% endfor %}
         </div>
       </div>
     </div>

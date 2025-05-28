@@ -6,6 +6,9 @@ img: assets/img/2_etnlp_project/merged.png
 importance: 2
 category: research
 giscus_comments: true
+date: "03/25"
+tags: ["NLP", "Interpretibility", "Causal Analysis"]
+in_preparation: true
 ---
 <div class="text-center mb-3" style="font-size: 1.5rem; font-weight: bold;">
   <a href="/assets/pdf/ETNLP_Project.pdf" target="_blank" style="color: #007bff;">[Report]</a>

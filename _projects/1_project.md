@@ -5,6 +5,9 @@ description: We introduce an attention-aware, multi-image augmented preference a
 img: assets/img/1_llvm_project/fig2.png
 importance: 1
 category: research
+date: "05/25"
+tags: ["DPO", "Multimodal", "VQA"]
+in_preparation: false
 
 related_publications: false
 ---

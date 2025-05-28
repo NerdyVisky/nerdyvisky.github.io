@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2024-11-1 15:59:00-0400
+date: 2025-04-26 15:59:00-0400
 inline: true
 related_posts: false
 ---
-
-Began working at the Bio-DaSH lab in the CTSI Instiute, NYU Langone under Prof. Gustavo Stolovitzky.
+Won 1st Runners Up award at the annual Threesis Academic Challenge in NYU GSAS! (and a cash prize of $1300!). Know more about the [NYU GSAS Threesis Academic Challenge](https://gsas.nyu.edu/student-life/the-masters-college/the-gsas-threesis-academic-challenge.html)
