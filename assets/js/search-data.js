@@ -36,19 +36,25 @@ ninja.data = [{
           section: "News",},{id: "news-began-working-at-the-bio-dash-lab-in-the-ctsi-instiute-nyu-langone-under-prof-gustavo-stolovitzky",
           title: 'Began working at the Bio-DaSH lab in the CTSI Instiute, NYU Langone under...',
           description: "",
-          section: "News",},{id: "projects-attention-aware-dpo-for-reducing-hallucinations-in-multi-image-qa",
-          title: 'Attention-Aware DPO for Reducing Hallucinations in Multi-Image QA',
-          description: "We introduce an attention-aware, multi-image augmented preference alignment method that improves accuracy by 8.5%, and further enhance inference-time alignment through adaptive attention scaling, yielding a 10% performance gain over the base model.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-do-retrieval-heads-speak-the-same-language",
+          section: "News",},{id: "news-delivered-an-instructive-lecture-on-basis-aware-neural-text-degneration-iclr-2024-to-my-etnlp-spring-class-watch-the-full-version-on-youtube-and-refer-reuse-the-slides",
+          title: 'Delivered an instructive lecture on Basis-Aware Neural Text Degneration (ICLR 2024) to my...',
+          description: "",
+          section: "News",},{id: "news-won-1st-runners-up-award-at-the-annual-threesis-academic-challenge-in-nyu-gsas-and-a-cash-prize-of-1300-know-more-about-the-nyu-gsas-threesis-academic-challenge",
+          title: 'Won 1st Runners Up award at the annual Threesis Academic Challenge in NYU...',
+          description: "",
+          section: "News",},{id: "projects-do-retrieval-heads-speak-the-same-language",
           title: 'Do retrieval heads speak the same language?',
           description: "This project analyzes retrieval heads in multilingual LLMs using Needle-in-a-Haystack tasks across English, German, and Chinese. We find that strong retrieval heads are largely language-agnostic and critical for performance. Masking them leads to significant accuracy drops, offering insights for optimizing KV caching and multilingual model efficiency.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-attention-aware-dpo-for-reducing-hallucinations-in-multi-image-qa",
+          title: 'Attention-Aware DPO for Reducing Hallucinations in Multi-Image QA',
+          description: "We introduce an attention-aware, multi-image augmented preference alignment method that improves accuracy by 8.5%, and further enhance inference-time alignment through adaptive attention scaling, yielding a 10% performance gain over the base model.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project/";
+            },},{id: "projects-clinicalml-a-medically-interpretable-ml-pipeline-for-clinical-outcome-prediction-using-mimic-iii-discharge-summaries",
+          title: 'ClinicalML - A medically interpretable ML pipeline for clinical outcome prediction using MIMIC-III...',
+          description: "ClinicalML is an interpretable machine learning pipeline for predicting ICU patient outcomes—mortality and length of stay—using admission-time clinical notes. It extracts disease and drug entities, reduces dimensionality with BioClinicalBERT embeddings, and applies traditional ML models. ClinicalML performs comparably to BERT-based models while offering greater transparency and clinical trust.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
