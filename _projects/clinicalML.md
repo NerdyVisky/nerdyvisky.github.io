@@ -3,10 +3,9 @@ layout: page
 title: ClinicalML - A medically interpretable ML pipeline for clinical outcome prediction using MIMIC-III discharge summaries
 description: ClinicalML is an interpretable machine learning pipeline for predicting ICU patient outcomes—mortality and length of stay—using admission-time clinical notes. It extracts disease and drug entities, reduces dimensionality with BioClinicalBERT embeddings, and applies traditional ML models. ClinicalML performs comparably to BERT-based models while offering greater transparency and clinical trust.
 img: assets/img/clinicalml/fig3.pdf
-redirect: 
-importance: 3
+importance: 4
 category: research
-date: "08/24"
+date: 2024-11-01
 tags: ["ClinicalML", "EHR", "NLP"]
 in_preparation: false
 ---

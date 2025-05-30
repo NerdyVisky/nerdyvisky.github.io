@@ -5,8 +5,8 @@ description: This project analyzes retrieval heads in multilingual LLMs using Ne
 img: assets/img/2_etnlp_project/merged.png
 importance: 2
 category: research
-giscus_comments: true
-date: "03/25"
+# giscus_comments: true
+date: 2025-03-01
 tags: ["NLP", "Interpretibility", "Causal Analysis"]
 in_preparation: true
 ---

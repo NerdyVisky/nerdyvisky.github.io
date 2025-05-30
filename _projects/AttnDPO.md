@@ -5,12 +5,18 @@ description: We introduce an attention-aware, multi-image augmented preference a
 img: assets/img/1_llvm_project/fig2.png
 importance: 1
 category: research
-date: "05/25"
+date: 2025-05-01
 tags: ["DPO", "Multimodal", "VQA"]
 in_preparation: false
 
 related_publications: false
 ---
+<h5>
+
+Harsh Sutariya*, Jeet Patel*, Shaswat Patel*, <b> Vishvesh Trivedi* </b>
+
+</h5>
+<h6>Equal contribution. Authors in ascending lexographical order.</h6>
 
 <p class="text-center mb-2" style="font-size: 1.5rem; font-weight: bold;">
   <a href="/assets/pdf/LLVM_Project.pdf" target="_blank" style="color: #007bff;">[Report]</a>
