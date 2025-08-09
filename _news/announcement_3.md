@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-09-03 07:59:00-0400
+date: 2025-07-31 07:59:00-0400
 inline: true
 related_posts: false
 ---
+:rocket: Built Morning Rounds, a voice-agent for automated handoff to the clinician at the [Healthcare x AI Agents hackathon](https://www.autoblocks.ai/hackathon). Won the Healthie ROI Prize and $1000 in Healthie API credits! [More Info](https://www.gethealthie.com/blog/healthie-at-the-healthcare-x-ai-agents-hack-learn)
 
-Commenced my Masters program in Computer Science at NYU Courant. [Looking for summer internship roles](https://www.linkedin.com/in/vishvesh-trivedi-783116214/)

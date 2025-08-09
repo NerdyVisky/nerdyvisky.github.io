@@ -218,6 +218,7 @@ plugins:
   - jekyll-jupyter-notebook
   - jekyll-link-attributes
   - jekyll-minifier
+  - jekyll-redirect-from
   - jekyll-paginate-v2
   - jekyll-regex-replace
   - jekyll/scholar
@@ -277,8 +278,8 @@ display_tags: ["Bias & Safety", "Electronic Health Records", "Radiology", "Medic
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Trivedi]
+  first_name: [Vishvesh, N.]
 
   style: apa
   locale: en
