@@ -9,12 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "blog",
-          description: "",
+  },{id: "nav-publications",
+          title: "publications",
+          description: "Peer-reviewed research contributions.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/blog/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-projects",
           title: "projects",
@@ -30,17 +30,20 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-commenced-my-masters-program-in-computer-science-at-nyu-courant-looking-for-summer-internship-roles",
-          title: 'Commenced my Masters program in Computer Science at NYU Courant. Looking for summer...',
-          description: "",
-          section: "News",},{id: "news-began-working-at-the-bio-dash-lab-in-the-ctsi-instiute-nyu-langone-under-prof-gustavo-stolovitzky",
-          title: 'Began working at the Bio-DaSH lab in the CTSI Instiute, NYU Langone under...',
+        },{id: "news-started-a-new-position-as-research-assistant-under-prof-gustavo-stolovitzky-at-the-biomedical-data-science-hub-biodash-in-nyu-langone-health",
+          title: 'Started a new position as Research Assistant under Prof. Gustavo Stolovitzky at the...',
           description: "",
           section: "News",},{id: "news-delivered-an-instructive-lecture-on-basis-aware-neural-text-degneration-iclr-2024-to-my-etnlp-spring-class-watch-the-full-version-on-youtube-and-refer-reuse-the-slides",
           title: 'Delivered an instructive lecture on Basis-Aware Neural Text Degneration (ICLR 2024) to my...',
           description: "",
-          section: "News",},{id: "news-won-1st-runners-up-award-at-the-annual-threesis-academic-challenge-in-nyu-gsas-and-a-cash-prize-of-1300-know-more-about-the-nyu-gsas-threesis-academic-challenge",
-          title: 'Won 1st Runners Up award at the annual Threesis Academic Challenge in NYU...',
+          section: "News",},{id: "news-confetti-ball-won-1st-runners-up-award-with-a-cash-prize-of-1300-at-the-annual-threesis-academic-challenge-in-nyu-gsas-listen-to-my-3-minute-talk-on-the-curious-case-of-the-aging-ai-doctor-here",
+          title: ':confetti_ball: Won 1st Runners Up award with a cash prize of $1300 at...',
+          description: "",
+          section: "News",},{id: "news-confetti-ball-our-work-titled-synslidegen-ai-generated-lecture-slides-for-improving-slide-element-detection-and-retrieval-has-been-accepted-at-icdar-2025-as-an-oral-presentation-project-webpage",
+          title: ':confetti_ball: Our work titled “SynSlideGen : AI-Generated Lecture Slides for Improving Slide Element...',
+          description: "",
+          section: "News",},{id: "news-rocket-built-morning-rounds-a-voice-agent-for-automated-handoff-to-the-clinician-at-the-healthcare-x-ai-agents-hackathon-won-the-healthie-roi-prize-and-1000-in-healthie-api-credits-more-info",
+          title: ':rocket: Built Morning Rounds, a voice-agent for automated handoff to the clinician at...',
           description: "",
           section: "News",},{id: "projects-project-7",
           title: 'project 7',
@@ -98,7 +101,14 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/vishvesh-trivedi-783116214/", "_blank");
+          window.open("https://www.linkedin.com/in/vntrivedi/", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=lV89RVIAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
