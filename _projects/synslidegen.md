@@ -7,15 +7,18 @@ importance: 3
 category: research
 date: 2024-12-01
 tags: ["Document AI", "Computer Vision", "Synthetic Data"]
-in_preparation: true
+in_preparation: false
+
 ---
 
 <div class="text-center mb-3" style="font-size: 1.5rem; font-weight: bold;">
+  <h3 style="color:red">ICDAR 2025 (Oral)</h3>
   <!-- <a href="/assets/pdf/SynSlideGen_ICDAR2025.pdf" target="_blank" style="color: #007bff;">[Report]</a> -->
   <!-- <a href="https://github.com/yourusername/synslidegen" target="_blank" style="color: #007bff; margin-left: 5px;">[Code]</a> -->
   <!-- <a href="https://yourdomain.com/slides/synslidegen" target="_blank" style="color: #007bff; margin-left: 5px;">[Slides]</a> -->
+  <a href="https://synslidegen.github.io" target="_blank" style="color: #007bff; margin-left: 5px;">[Project Website]</a>
 </div>
-<i>Work under submission. Paper and Code releasing soon!</i>
+
 
 <h2>Abstract</h2>
 <p>

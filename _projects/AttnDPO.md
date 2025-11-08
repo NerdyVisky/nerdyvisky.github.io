@@ -3,7 +3,7 @@ layout: page
 title: Attention-Aware DPO for Reducing Hallucinations in Multi-Image QA
 description: We introduce an attention-aware, multi-image augmented preference alignment method that improves accuracy by 8.5%, and further enhance inference-time alignment through adaptive attention scaling, yielding a 10% performance gain over the base model.
 img: assets/img/1_llvm_project/fig2.png
-importance: 1
+importance: 2
 category: research
 date: 2025-05-01
 tags: ["DPO", "Multimodal", "VQA"]
