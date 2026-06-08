@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-03-12 15:59:00-0400
+date: 2026-05-06 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Delivered an instructive lecture on [Basis-Aware Neural Text Degneration (ICLR 2024)](https://openreview.net/pdf?id=dONpC9GL1o) to my ETNLP Spring class! Watch the full version on [YouTube](https://www.youtube.com/watch?v=cUXrlXwxCUg). (and refer/reuse the [slides](https://docs.google.com/presentation/d/1UtmHXw4gXc8ikbx8ZEaOIdm4kHM4h-VtaWCxcwCrXvU/edit?slide=id.g806743487f_0_57#slide=id.g806743487f_0_57)).
+:trophy: Awarded the [Hedwig Kurzbart Master's Fellowship Prize](https://cims.nyu.edu/dynamic/academics/student_recognition/) (comes with $2500 prize) by the Courant Institute for outstanding academic and research performance as a Masters student at NYU.
